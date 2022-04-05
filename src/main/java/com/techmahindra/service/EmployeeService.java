@@ -2,7 +2,7 @@ package com.techmahindra.service;
 
 import org.springframework.stereotype.Service;
 
-import com.tecgmahindra.model.Employee;
+import com.techmahindra.model.Employee;
 
 @Service
 public class EmployeeService {

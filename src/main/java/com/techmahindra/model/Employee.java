@@ -1,4 +1,4 @@
-package com.tecgmahindra.model;
+package com.techmahindra.model;
 
 
 public class Employee {
